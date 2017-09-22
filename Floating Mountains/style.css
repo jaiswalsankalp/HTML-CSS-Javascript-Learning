@@ -1,0 +1,137 @@
+body{
+	margin: 0;
+}
+
+.main{
+	background-image: url(Images/1.jpg);
+	background-repeat: no-repeat;
+	color: white;
+}
+
+.main a{
+	color: white;
+	text-decoration: none;
+}
+
+.footer{
+	margin: 50px;
+}
+
+.nav{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	padding-top: 30px;
+	letter-spacing: 0.1em;
+}
+
+.content{
+	padding: 13% 30% 15%;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.content h1{
+	font-family: 'Playfair Display', serif;
+	font-size: 80pt;
+	margin-bottom: 10px;
+}
+
+.content p{
+	width: 60%;
+	text-align: center;
+	padding: 0 20%;
+	margin-bottom: 80px;
+}
+
+.content a{
+	background-color: #ff9999;
+	border-radius: 15px;
+	padding: 8px 30px;
+}
+
+.play{
+	color: white;
+	text-align: center;
+	padding: 20px;
+}
+
+.navigation{
+	text-align: center;
+}
+
+.navigation li{
+	display: inline-block;
+	margin: 20px;
+}
+
+#left{
+	position: absolute;
+	left: 100px;
+}
+
+#right{
+	position: absolute;
+	right: 100px;
+}
+
+#pd1{
+	background-image: url(Images/2.jpg);
+	padding: 280px 175.5px 130px;
+	background-size: 150%;
+	background-repeat: no-repeat;
+	text-align: center;
+	color: white;
+}
+
+#pd2{
+	background-image: url(Images/3.jpg);
+	padding: 280px 175.5px 130px;
+	background-size: 170%;
+	background-repeat: no-repeat;
+	text-align: center;
+	color: white;
+}
+
+#pd3{
+	background-image: url(Images/4.jpg);
+	padding: 280px 175.5px 130px;
+	background-size: 160%;
+	background-repeat: no-repeat;
+	text-align: center;
+	color: white;
+}
+
+#pd4{
+	background-image: url(Images/5.jpg);
+	padding: 280px 175.5px 130px;
+	background-size: 180%;
+	background-repeat: no-repeat;
+	text-align: center;
+	color: white;
+}
+
+.footer th{
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+	padding-left: 20px;
+}
+
+.footer td{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: normal;
+	font-size: 80%;
+	width: 20%;
+	text-align: center;
+	padding-left: 20px;
+}
+
+.foot{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: normal;
+	background-color: black;
+	color: white;
+	text-align: center;
+	margin: 0;
+	padding: 10px;
+	font-size: 80%;
+}
