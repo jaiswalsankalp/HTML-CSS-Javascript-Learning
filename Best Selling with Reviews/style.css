@@ -1,0 +1,139 @@
+body{
+	background-color: rgb(204, 216, 255);
+	font-family: sans-serif;
+}
+
+.main{
+	width: 1540px;
+	margin: auto;
+	background-color: white;
+	padding: 20px;
+}
+
+.main-container{
+	height: 300px;
+	width: 1500px;
+	padding: 20px 0 20px 0;
+	border-bottom: 1px solid rgb(140, 140, 140);
+}
+
+.images{
+	float: left;
+	margin: 20px;
+}
+
+.images img{
+	width: 150px;
+	height: 150px;
+}
+
+.title{
+	width: 350px;
+	float: left;
+	margin: 20px;
+}
+
+.best-selling{
+	color: red;
+	font-size: 0.9em;
+}
+
+.product-title{
+	font-size: 1.2em;
+	font-weight: bold;
+	margin: 5px 0 30px 0;
+	width: 350px;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+.brand-name{
+	font-size: 0.8em;
+	margin-bottom: 10px;
+}
+
+.brand a{
+	color: #33ccff;
+	text-decoration: none;
+}
+
+.price{
+	font-weight: bold;
+}
+
+.previous-price{
+	text-decoration: line-through;
+	color: rgb(140, 140, 140);
+}
+
+.helpful-review{
+	width: 400px;
+	height: 250px;
+	float: left;
+	margin: 20px;
+}
+
+.helpful-review-title{
+	font-weight: bold;
+	margin-bottom: 20px;
+	font-size: 1.1em;
+}
+
+.rating{
+	font-size: 0.8em;
+	background-color: green;
+	border-radius: 5px;
+	color: white;
+	padding: 5px;
+}
+
+.rating-title{
+	font-size: 0.95em;
+}
+
+.helpful_review_content{
+	margin-top: 20px;
+	font-size: 0.92em;
+	line-height: 18px;
+}
+
+.full-review{
+	font-size: 0.92em;
+	margin-top: 10px;
+}
+
+.product_image{
+	margin-top: 10px;
+	height: 50px;
+	width: 50px;
+}
+
+.review-time, .all-review{
+	font-size: 0.8em;
+}
+
+.recent-review{
+	width: 400px;
+	height: 250px;
+	float: left;
+	margin: 20px;
+}
+
+.recent-review-title{
+	font-weight: bold;
+	margin-bottom: 20px;
+	font-size: 1.1em;
+}
+
+.recent_review_content{
+	margin-top: 20px;
+	font-size: 0.92em;
+	line-height: 18px;
+}
+
+.full-review a{
+	font-weight: bold;
+	color: blue;
+	text-decoration: none; 
+}
